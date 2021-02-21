@@ -1,4 +1,4 @@
-package org.tak.State;
+package org.tak.state;
 
 /**
  * 在状态模式（State Pattern）中，类的行为是基于它的状态改变的。这种类型的设计模式属于行为型模式。
